@@ -1,6 +1,5 @@
 #include "board.h"
 #include <iostream>
-
 Board::Board()
 {
     for (int i = 0; i < SIZE; i++)
