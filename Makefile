@@ -13,3 +13,5 @@ $(TARGET): $(OBJS)
 
 clean:
 	del /F /Q $(OBJS) $(TARGET) 2>nul || rm -f $(OBJS) $(TARGET)
+
+
