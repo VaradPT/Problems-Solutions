@@ -7,7 +7,6 @@ Board::Board()
         for (int j = 0; j < SIZE; j++)
             board[i][j] = '-';  // Initialize board with empty spaces
 }
-
 void Board::display() 
 {
     for (int i = 0; i < SIZE; i++)
