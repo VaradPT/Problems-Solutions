@@ -7,5 +7,3 @@ Using concepts of Programming Languages like OOP etc.
 
 * 25/03/2025: 8 Queen Problem zip
 * 26/03/2025: 8 queen Prob files
-
-
