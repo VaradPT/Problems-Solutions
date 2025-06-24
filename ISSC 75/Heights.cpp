@@ -1,10 +1,13 @@
-class Solution
-{
-    public:
-        int heightChecker(vector<int>& heights) 
-        {
-            //Sort the given array of heights and compare sorted[i] with original[i]   
-
-            
+class Solution {
+public:
+    int heightChecker(vector<int>& heights) {
+        vector<int> expected = heights;
+        sort(expected.begin(),expected.end());
+        int count = 0;
+        for (int i = 0; i< expected.size(); i++){
+            if(expected[i]!=heights[i])
+                count++;
         }
+        return count;            
+    }
 };
