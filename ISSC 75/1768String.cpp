@@ -1,4 +1,3 @@
-//String Merging alternately
 //1768 Leetcode
 class Solution {
 public:
