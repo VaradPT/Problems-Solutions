@@ -4,7 +4,6 @@ Queen::Queen(Board *b) {
     board = b;
 }
 
-
 bool Queen::isUnderAttack(int row, int col) {
     for (int i = 0; i < row; i++) {
         if (board->board[i][col] == 'Q') return true;
