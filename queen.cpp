@@ -17,7 +17,6 @@ bool Queen::isUnderAttack(int row, int col) {
     return false;
 }
 
-
 bool Queen::placeQueens(int row) {
     if (row >= SIZE) return true;
 
