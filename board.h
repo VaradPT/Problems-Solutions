@@ -3,7 +3,6 @@
 
 #include <iostream>
 #define SIZE 8 
-
 class Board {
 public:
     char board[SIZE][SIZE];  
