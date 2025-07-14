@@ -6,4 +6,4 @@ public:
     {
     }
 };
-//9 Palindrme number
+//9 Palindrome number
