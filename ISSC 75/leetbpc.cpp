@@ -10,7 +10,8 @@ public:
 //9 Palindrome number
 class Solution {
 public:
-    bool isPalindrome(int x) {
+    bool isPalindrome(int x)
+    {
         
     }
 };
