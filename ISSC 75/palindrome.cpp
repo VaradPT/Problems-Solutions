@@ -1,5 +1,4 @@
-/*include <iostream>*/
-/*main(){}*/
+//leetcode
 class Solution {
 public:
     bool isPalindrome(int x) 
