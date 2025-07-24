@@ -1,4 +1,4 @@
-  /**Boilerplate type code collection */
+/**Boilerplate type code collection */
 //1732
 class Solution {
 public:
