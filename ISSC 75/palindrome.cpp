@@ -1,4 +1,3 @@
-
 /*leetcode
 Palindrome**/
 class Solution {
