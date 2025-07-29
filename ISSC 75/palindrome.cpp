@@ -1,4 +1,5 @@
-/*leetcode**/
+/*leetcode
+Palindrome**/
 class Solution {
 public:
     bool isPalindrome(int x) 
