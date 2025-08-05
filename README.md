@@ -6,5 +6,3 @@ Using concepts of Programming Languages like OOP etc.
 
 # Achieved: Format:-  Concept; Technology; Application
 Basic Logic, DS; C++ ; Problem Solving
-
-
