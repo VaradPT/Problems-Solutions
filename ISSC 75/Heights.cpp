@@ -1,3 +1,4 @@
+
 class Solution {
 public:
     int heightChecker(vector<int>& heights) {
@@ -15,3 +16,4 @@ public:
         return count;            
     }
 };
+
