@@ -1,4 +1,3 @@
-
 //1768 Leetcode
 class Solution {
 public:
@@ -18,4 +17,5 @@ public:
         return result;
     }
 };
+
 
