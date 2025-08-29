@@ -1,4 +1,4 @@
-//1768 Leetcode
+//1768 Leetcode, String 
 class Solution {
 public:
     string mergeAlternately(string word1, string word2)
@@ -17,5 +17,6 @@ public:
         return result;
     }
 };
+
 
 
